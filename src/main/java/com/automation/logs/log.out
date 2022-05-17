@@ -1,0 +1,154 @@
+2022-05-17 11:05:845 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:368 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (3719eb8a0cf50d9f7c7d288aa048c147)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:421 INFO  HomePage :75 - getting  text from authenticationText[[ChromeDriver: chrome on WINDOWS (3719eb8a0cf50d9f7c7d288aa048c147)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-17 11:05:960 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:230 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (a46caf12a1f75d7981ab71d4c038a33b)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:370 INFO  HomePage :51 - Enter email to  field [[ChromeDriver: chrome on WINDOWS (a46caf12a1f75d7981ab71d4c038a33b)] -> xpath: //input[@id='email']]<br>
+2022-05-17 11:05:631 INFO  HomePage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (a46caf12a1f75d7981ab71d4c038a33b)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 11:05:218 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:372 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (7b55ca5fb7256246ba3b9d56b0187856)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:407 INFO  HomePage :75 - getting  text from authenticationText[[ChromeDriver: chrome on WINDOWS (7b55ca5fb7256246ba3b9d56b0187856)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-17 11:05:689 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:28 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (56cc5ea1e0b676133e0ba19d9e918ead)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:116 INFO  HomePage :51 - Enter email to  field [[ChromeDriver: chrome on WINDOWS (56cc5ea1e0b676133e0ba19d9e918ead)] -> xpath: //input[@id='email']]<br>
+2022-05-17 11:05:245 INFO  HomePage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (56cc5ea1e0b676133e0ba19d9e918ead)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 11:05:565 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:204 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (61438f8f060c2437b56e9a764dbc46a7)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:326 INFO  HomePage :51 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (61438f8f060c2437b56e9a764dbc46a7)] -> xpath: //input[@id='email']]<br>
+2022-05-17 11:05:417 INFO  HomePage :56 - Enter passwordfield to  field [[ChromeDriver: chrome on WINDOWS (61438f8f060c2437b56e9a764dbc46a7)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 11:05:640 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:227 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:628 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (759bb5f47cebf895bf9f669fe178f19a)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:676 INFO  HomePage :75 - getting  text from authenticationText[[ChromeDriver: chrome on WINDOWS (759bb5f47cebf895bf9f669fe178f19a)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-17 11:05:878 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:130 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (8be57e7b961bfacaafce62c76419365d)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:270 INFO  HomePage :51 - Enter email to  field [[ChromeDriver: chrome on WINDOWS (8be57e7b961bfacaafce62c76419365d)] -> xpath: //input[@id='email']]<br>
+2022-05-17 11:05:444 INFO  HomePage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (8be57e7b961bfacaafce62c76419365d)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 11:05:527 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:251 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (2ae355647e8e1dff82525c8489eb4bce)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:560 INFO  HomePage :51 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (2ae355647e8e1dff82525c8489eb4bce)] -> xpath: //input[@id='email']]<br>
+2022-05-17 11:05:779 INFO  HomePage :56 - Enter passwordfield to  field [[ChromeDriver: chrome on WINDOWS (2ae355647e8e1dff82525c8489eb4bce)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 11:05:391 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:510 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (2d7374f94dbb3760959e4b30d412fcca)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:725 INFO  HomePage :51 - Enter emailadfdfgfg to  field [[ChromeDriver: chrome on WINDOWS (2d7374f94dbb3760959e4b30d412fcca)] -> xpath: //input[@id='email']]<br>
+2022-05-17 11:05:944 INFO  HomePage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (2d7374f94dbb3760959e4b30d412fcca)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 11:05:979 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:380 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:506 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (3860b5871b3d62e1d7be8db50945db93)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:554 INFO  HomePage :75 - getting  text from authenticationText[[ChromeDriver: chrome on WINDOWS (3860b5871b3d62e1d7be8db50945db93)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-17 11:05:777 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:529 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (c87c753b9c310610fd977e2ef661ad5d)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:673 INFO  HomePage :51 - Enter email to  field [[ChromeDriver: chrome on WINDOWS (c87c753b9c310610fd977e2ef661ad5d)] -> xpath: //input[@id='email']]<br>
+2022-05-17 11:05:860 INFO  HomePage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (c87c753b9c310610fd977e2ef661ad5d)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 11:05:677 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 11:05:140 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (9f3acd19525270d62369254a0b9f631b)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 11:05:417 INFO  HomePage :51 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (9f3acd19525270d62369254a0b9f631b)] -> xpath: //input[@id='email']]<br>
+2022-05-17 11:05:777 INFO  HomePage :56 - Enter passwordfield to  field [[ChromeDriver: chrome on WINDOWS (9f3acd19525270d62369254a0b9f631b)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 11:05:176 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:160 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:859 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (5b1a0fe6a9ca335dfceae7ce9eee0dd8)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:893 INFO  SignInPage :75 - getting  text from authenticationText[[ChromeDriver: chrome on WINDOWS (5b1a0fe6a9ca335dfceae7ce9eee0dd8)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-17 21:05:709 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:241 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (7c0ee46b268186d37f384838654b2951)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:319 INFO  SignInPage :51 - Enter email to  field [[ChromeDriver: chrome on WINDOWS (7c0ee46b268186d37f384838654b2951)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:398 INFO  SignInPage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (7c0ee46b268186d37f384838654b2951)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:430 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:844 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (7874db6495b1dcfc63155e10d7eec7de)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:913 INFO  SignInPage :51 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (7874db6495b1dcfc63155e10d7eec7de)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:976 INFO  SignInPage :56 - Enter passwordfield to  field [[ChromeDriver: chrome on WINDOWS (7874db6495b1dcfc63155e10d7eec7de)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:933 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:475 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (82013fde045ac384b4e2783fbca32ae3)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:571 INFO  SignInPage :51 - Enter emailadfdfgfg to  field [[ChromeDriver: chrome on WINDOWS (82013fde045ac384b4e2783fbca32ae3)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:667 INFO  SignInPage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (82013fde045ac384b4e2783fbca32ae3)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:800 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:703 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (8b0b40d71840ec73d2bc2e32b1b2c90e)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:792 INFO  SignInPage :51 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (8b0b40d71840ec73d2bc2e32b1b2c90e)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:869 INFO  SignInPage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (8b0b40d71840ec73d2bc2e32b1b2c90e)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:931 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:149 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (b3e4cfab0a28e51061543d34e23505af)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:223 INFO  SignInPage :51 - Enter emailavni123@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (b3e4cfab0a28e51061543d34e23505af)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:284 INFO  SignInPage :56 - Enter passwordfieldapj123 to  field [[ChromeDriver: chrome on WINDOWS (b3e4cfab0a28e51061543d34e23505af)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:294 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:540 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (2b1b086f65175dca253a74d5f1922bf9)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:620 INFO  SignInPage :51 - Enter emailavni123@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (2b1b086f65175dca253a74d5f1922bf9)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:689 INFO  SignInPage :56 - Enter passwordfieldapj123 to  field [[ChromeDriver: chrome on WINDOWS (2b1b086f65175dca253a74d5f1922bf9)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:954 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:55 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (5b9bd9415276234c43055d5a5bdc5df2)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:83 INFO  SignInPage :75 - getting  text from authenticationText[[ChromeDriver: chrome on WINDOWS (5b9bd9415276234c43055d5a5bdc5df2)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-17 21:05:838 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:615 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (907d82634f73ec92b896d9222ac9c4fc)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:676 INFO  SignInPage :51 - Enter email to  field [[ChromeDriver: chrome on WINDOWS (907d82634f73ec92b896d9222ac9c4fc)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:755 INFO  SignInPage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (907d82634f73ec92b896d9222ac9c4fc)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:318 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (907d82634f73ec92b896d9222ac9c4fc)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 21:05:336 INFO  SignInPage :91 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (907d82634f73ec92b896d9222ac9c4fc)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-17 21:05:105 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:545 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (242455a8a2f30b550ea385c8c196560e)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:626 INFO  SignInPage :51 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (242455a8a2f30b550ea385c8c196560e)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:686 INFO  SignInPage :56 - Enter passwordfield to  field [[ChromeDriver: chrome on WINDOWS (242455a8a2f30b550ea385c8c196560e)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:828 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (242455a8a2f30b550ea385c8c196560e)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 21:05:849 INFO  SignInPage :91 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (242455a8a2f30b550ea385c8c196560e)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-17 21:05:613 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:99 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (8e2494e7c4294ffe20a70d36eeb40b1f)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:171 INFO  SignInPage :51 - Enter emailadfdfgfg to  field [[ChromeDriver: chrome on WINDOWS (8e2494e7c4294ffe20a70d36eeb40b1f)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:250 INFO  SignInPage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (8e2494e7c4294ffe20a70d36eeb40b1f)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:901 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (8e2494e7c4294ffe20a70d36eeb40b1f)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 21:05:921 INFO  SignInPage :91 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (8e2494e7c4294ffe20a70d36eeb40b1f)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-17 21:05:664 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:234 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (02f4fc9c888e69156e5728c9e5427fa5)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:312 INFO  SignInPage :51 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (02f4fc9c888e69156e5728c9e5427fa5)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:382 INFO  SignInPage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (02f4fc9c888e69156e5728c9e5427fa5)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 21:05:13 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (02f4fc9c888e69156e5728c9e5427fa5)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 21:05:36 INFO  SignInPage :91 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (02f4fc9c888e69156e5728c9e5427fa5)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-17 21:05:797 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:743 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (0432ff50c2da7524908575c86db1e176)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 21:05:818 INFO  SignInPage :51 - Enter emailavni123@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (0432ff50c2da7524908575c86db1e176)] -> xpath: //input[@id='email']]<br>
+2022-05-17 21:05:886 INFO  SignInPage :56 - Enter passwordfieldapj123 to  field [[ChromeDriver: chrome on WINDOWS (0432ff50c2da7524908575c86db1e176)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 22:05:46 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (0432ff50c2da7524908575c86db1e176)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 22:05:63 INFO  HomePage :31 - getting  text from sinout[[ChromeDriver: chrome on WINDOWS (0432ff50c2da7524908575c86db1e176)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]<br>
+2022-05-17 22:05:58 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:796 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (75d8e2dd593447f913786ead686daa5d)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 22:05:894 INFO  SignInPage :51 - Enter emailavni123@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (75d8e2dd593447f913786ead686daa5d)] -> xpath: //input[@id='email']]<br>
+2022-05-17 22:05:958 INFO  SignInPage :56 - Enter passwordfieldapj123 to  field [[ChromeDriver: chrome on WINDOWS (75d8e2dd593447f913786ead686daa5d)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 22:05:116 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (75d8e2dd593447f913786ead686daa5d)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 22:05:581 INFO  HomePage :38 - Clicking on sinout[[ChromeDriver: chrome on WINDOWS (75d8e2dd593447f913786ead686daa5d)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]<br>
+2022-05-17 22:05:639 INFO  SignInPage :65 - getting  text from signInButtonFieldProxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'<br>
+2022-05-17 22:05:461 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:736 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (c6f55322f00564a47398a82a94210409)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 22:05:770 INFO  SignInPage :75 - getting  text from authenticationText[[ChromeDriver: chrome on WINDOWS (c6f55322f00564a47398a82a94210409)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-17 22:05:664 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:795 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (c3401024336142c163e9f066280861ed)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 22:05:901 INFO  SignInPage :51 - Enter email to  field [[ChromeDriver: chrome on WINDOWS (c3401024336142c163e9f066280861ed)] -> xpath: //input[@id='email']]<br>
+2022-05-17 22:05:41 INFO  SignInPage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (c3401024336142c163e9f066280861ed)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 22:05:327 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (c3401024336142c163e9f066280861ed)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 22:05:346 INFO  SignInPage :91 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (c3401024336142c163e9f066280861ed)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-17 22:05:104 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:864 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (4cbc9ba54b92c8721464b54745705c9a)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 22:05:933 INFO  SignInPage :51 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (4cbc9ba54b92c8721464b54745705c9a)] -> xpath: //input[@id='email']]<br>
+2022-05-17 22:05:00 INFO  SignInPage :56 - Enter passwordfield to  field [[ChromeDriver: chrome on WINDOWS (4cbc9ba54b92c8721464b54745705c9a)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 22:05:727 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (4cbc9ba54b92c8721464b54745705c9a)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 22:05:745 INFO  SignInPage :91 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (4cbc9ba54b92c8721464b54745705c9a)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-17 22:05:499 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:635 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (0ea11cf3e8b2fe252b6be615d3518727)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 22:05:708 INFO  SignInPage :51 - Enter emailadfdfgfg to  field [[ChromeDriver: chrome on WINDOWS (0ea11cf3e8b2fe252b6be615d3518727)] -> xpath: //input[@id='email']]<br>
+2022-05-17 22:05:778 INFO  SignInPage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (0ea11cf3e8b2fe252b6be615d3518727)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 22:05:10 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (0ea11cf3e8b2fe252b6be615d3518727)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 22:05:28 INFO  SignInPage :91 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (0ea11cf3e8b2fe252b6be615d3518727)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-17 22:05:756 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:588 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (c27f2a4b29bdaf50ce39c88ec272f501)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 22:05:660 INFO  SignInPage :51 - Enter emailabcd@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (c27f2a4b29bdaf50ce39c88ec272f501)] -> xpath: //input[@id='email']]<br>
+2022-05-17 22:05:744 INFO  SignInPage :56 - Enter passwordfield123456 to  field [[ChromeDriver: chrome on WINDOWS (c27f2a4b29bdaf50ce39c88ec272f501)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 22:05:467 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (c27f2a4b29bdaf50ce39c88ec272f501)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 22:05:486 INFO  SignInPage :91 - getting  text from errorMsg[[ChromeDriver: chrome on WINDOWS (c27f2a4b29bdaf50ce39c88ec272f501)] -> xpath: //div[@class='alert alert-danger']//li]<br>
+2022-05-17 22:05:217 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:102 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (e8a00427aba4c9d6ec05a55a245547ad)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 22:05:181 INFO  SignInPage :51 - Enter emailharshil34@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (e8a00427aba4c9d6ec05a55a245547ad)] -> xpath: //input[@id='email']]<br>
+2022-05-17 22:05:253 INFO  SignInPage :56 - Enter passwordfieldrosep12 to  field [[ChromeDriver: chrome on WINDOWS (e8a00427aba4c9d6ec05a55a245547ad)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 22:05:439 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (e8a00427aba4c9d6ec05a55a245547ad)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 22:05:460 INFO  MyAccount :31 - getting  text from sinout[[ChromeDriver: chrome on WINDOWS (e8a00427aba4c9d6ec05a55a245547ad)] -> xpath: //a[@title='Log me out']]<br>
+2022-05-17 22:05:204 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 22:05:113 INFO  HomePage :52 - Clicking on sinInTab[[ChromeDriver: chrome on WINDOWS (93953b6601a86b284842101420c4cd11)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 22:05:246 INFO  SignInPage :51 - Enter emailharshil34@gmail.com to  field [[ChromeDriver: chrome on WINDOWS (93953b6601a86b284842101420c4cd11)] -> xpath: //input[@id='email']]<br>
+2022-05-17 22:05:375 INFO  SignInPage :56 - Enter passwordfieldrosep12 to  field [[ChromeDriver: chrome on WINDOWS (93953b6601a86b284842101420c4cd11)] -> xpath: //input[@id='passwd']]<br>
+2022-05-17 22:05:577 INFO  SignInPage :61 - Clicking on signInButtonField[[ChromeDriver: chrome on WINDOWS (93953b6601a86b284842101420c4cd11)] -> xpath: //button[@id='SubmitLogin']]<br>
+2022-05-17 22:05:350 INFO  MyAccount :38 - Clicking on sinout[[ChromeDriver: chrome on WINDOWS (93953b6601a86b284842101420c4cd11)] -> xpath: //a[@title='Log me out']]<br>
+2022-05-17 22:05:366 INFO  SignInPage :65 - getting  text from signInButtonField[[ChromeDriver: chrome on WINDOWS (93953b6601a86b284842101420c4cd11)] -> xpath: //button[@id='SubmitLogin']]<br>
